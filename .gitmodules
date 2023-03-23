@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CryptRndTest"]
+	path = CryptRndTest
+	url = https://github.com/cran/CryptRndTest
+	shallow = true
+	registered = true
+[submodule "dLagM"]
+	path = dLagM
+	url = https://github.com/cran/dLagM
+	shallow = true
+	registered = true
+[submodule "rTableICC"]
+	path = rTableICC
+	url = https://github.com/cran/rTableICC
+	shallow = true
+	registered = true
