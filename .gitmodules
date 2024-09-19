@@ -5,6 +5,9 @@
 [submodule "CryptRndTest"]
 	path = CryptRndTest
 	url = https://github.com/cran/CryptRndTest
+[submodule "GreyZones"]
+	path = GreyZones
+	url = https://github.com/cran/GreyZones
 [submodule "dLagM"]
 	path = dLagM
 	url = https://github.com/cran/dLagM
